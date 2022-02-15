@@ -1,0 +1,4 @@
+input:checked + label {
+  border-width: 0;
+  background-color: #DDD6FE;
+}
